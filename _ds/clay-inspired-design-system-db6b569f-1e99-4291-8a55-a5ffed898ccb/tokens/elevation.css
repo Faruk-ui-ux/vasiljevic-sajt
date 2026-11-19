@@ -1,0 +1,8 @@
+/* Flat system: depth from color, not shadow. */
+:root{
+--shadow-none:none;
+--shadow-hover:0 4px 16px rgba(10,10,10,0.06);
+--border-hairline:1px solid var(--color-hairline);
+--border-focus-ring:1px solid var(--color-ink);
+--duration-fast:120ms;/* @kind other */--duration-base:200ms;/* @kind other */--ease-standard:cubic-bezier(0.2,0,0,1);/* @kind other */
+}

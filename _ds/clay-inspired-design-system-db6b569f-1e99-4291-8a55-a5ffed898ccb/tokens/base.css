@@ -1,0 +1,7 @@
+/* Minimal base */
+*,*::before,*::after{box-sizing:border-box}
+html,body{margin:0;background:var(--color-canvas);color:var(--color-body);font:var(--type-body-md);-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4,p{margin:0}
+a{color:var(--color-ink);text-decoration:underline;text-underline-offset:2px}
+a:hover{color:var(--color-body-strong)}
+button{font-family:inherit}

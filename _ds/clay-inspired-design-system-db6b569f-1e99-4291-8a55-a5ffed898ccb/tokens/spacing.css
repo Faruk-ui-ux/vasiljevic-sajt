@@ -1,0 +1,7 @@
+/* Spacing — 4px base */
+:root{
+--space-xxs:4px;--space-xs:8px;--space-sm:12px;--space-md:16px;--space-lg:24px;--space-xl:32px;--space-xxl:48px;--space-section:96px;
+--space-band:80px;
+--container-max:1280px;--nav-height:64px;--control-height:44px;
+--bp-tablet:768px;--bp-desktop:1024px;--bp-wide:1440px;
+}
